@@ -36,5 +36,4 @@ This repo is a collection of product work samples, prototypes, and frameworks â€
 
 ## Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
-- [Email](mailto:YOUR-EMAIL-HERE)
+- [LinkedIn](https://linkedin.com/in/april-de-zen)
