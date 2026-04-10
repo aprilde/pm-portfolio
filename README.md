@@ -19,7 +19,7 @@ This repo is a collection of product work samples, prototypes, and frameworks �
 
 ## What I Work On
 
-- **Event & Ticketing Technology** — purchase flows, organizer payouts, fan engagement features, and marketplace tools at scale
+- **Event & Ticketing Technology** — purchase flows, fan engagement features, and marketplace tools at scale
 - **AI/ML Product Strategy** — recommendation systems, demand prediction, and smart notifications that help fans find the right events
 - **Growth & Experimentation** — A/B testing, feature flagging, and data-driven iteration to move product metrics
 
