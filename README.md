@@ -30,9 +30,9 @@ This repo is a collection of product work samples, prototypes, and frameworks �
 ## A Bit More About Me
 
 - Based in Toronto 🇨🇦
-- Background in software development before moving into product — I can read the code and talk to engineers in their language
+- Background in design before moving into product and I'm always thinking about the user experience
 - Passionate about mentoring junior PMs and building collaborative team cultures
-- Outside of work: travel, languages, and finding the best live events in the city
+- Outside of work: travel, food, and finding the best live events in the city
 
 ## Let's Connect
 
