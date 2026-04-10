@@ -1,6 +1,6 @@
 # Hey, I'm April 👋
 
-Senior Product Manager with 10+ years across event technology, wearable tech, and media. Currently building ticketing products that serve millions of fans and event organizers.
+Senior Product Manager with 5+ years across event technology, wearable tech, and media. Currently building ticketing products that serve fans and event organizers.
 
 ## What You'll Find Here
 
